@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420">
+<rect width="900" height="420" rx="28" fill="#eaf4fb"/>
+<circle cx="450" cy="190" r="125" fill="#d4e9f7"/>
+<rect x="365" y="95" width="170" height="185" rx="28" fill="#2980b9"/>
+<rect x="390" y="125" width="120" height="95" rx="18" fill="#ffffff"/>
+<circle cx="425" cy="170" r="10" fill="#16a085"/><circle cx="475" cy="170" r="10" fill="#16a085"/>
+<path d="M420 195 Q450 218 480 195" fill="none" stroke="#34495e" stroke-width="7" stroke-linecap="round"/>
+<path d="M450 95 V70 M440 70 H460" stroke="#2980b9" stroke-width="8" stroke-linecap="round"/>
+<path d="M365 155 H325 M535 155 H575 M365 230 H325 M535 230 H575" stroke="#2980b9" stroke-width="9" stroke-linecap="round"/>
+<rect x="80" y="95" width="190" height="85" rx="18" fill="#ffffff" stroke="#8bbbd9" stroke-width="4"/>
+<text x="175" y="130" text-anchor="middle" font-size="23" fill="#34495e" font-family="Arial">دعم فني</text>
+<text x="175" y="158" text-anchor="middle" font-size="18" fill="#16a085" font-family="Arial">مساعدة فورية</text>
+<rect x="630" y="95" width="190" height="85" rx="18" fill="#ffffff" stroke="#8bbbd9" stroke-width="4"/>
+<text x="725" y="130" text-anchor="middle" font-size="23" fill="#34495e" font-family="Arial">محادثة ذكية</text>
+<text x="725" y="158" text-anchor="middle" font-size="18" fill="#16a085" font-family="Arial">رد سريع</text>
+<path d="M270 137 C310 137 315 160 340 165 M630 137 C590 137 585 160 560 165" fill="none" stroke="#16a085" stroke-width="6" stroke-linecap="round"/>
+<text x="450" y="355" text-anchor="middle" font-size="30" font-weight="bold" fill="#2c3e50" font-family="Arial">الذكاء الاصطناعي في خدمة الزوار</text>
+</svg>
